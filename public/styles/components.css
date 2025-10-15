@@ -1,0 +1,14 @@
+.card{border:1px solid var(--border);border-radius:12px;padding:16px;margin:12px 0;background:#fff}
+label{display:block;font-weight:600;margin:.5rem 0}
+input[type=range]{width:100%}
+textarea,input[type=url]{width:100%}
+button{background:#111827;color:white;padding:.6rem 1rem;border-radius:10px;border:none;cursor:pointer}
+.pill{display:inline-block;background:#eef2ff;color:var(--accent);border-radius:999px;padding:.15rem .5rem;margin:.1rem 0}
+.risk{border-left:4px solid #ef4444;padding-left:10px}
+.ok{border-left:4px solid #10b981;padding-left:10px}
+.results{overflow:auto}
+.md p{margin:.4rem 0}
+.md h2,.md h3{margin:.6rem 0 .3rem}
+.md ul,.md ol{margin:.4rem 0 .6rem 1.2rem}
+.md code{background:#f3f4f6;padding:.1rem .3rem;border-radius:6px}
+

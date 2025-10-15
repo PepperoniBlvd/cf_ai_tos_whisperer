@@ -1,0 +1,4 @@
+header{display:flex;align-items:center;justify-content:space-between;margin-bottom:1rem}
+.row{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+

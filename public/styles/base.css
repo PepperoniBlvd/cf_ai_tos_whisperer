@@ -1,0 +1,5 @@
+:root{--border:#e5e7eb;--muted:#6b7280;--accent:#3730a3;--bg:#fff;--text:#111827}
+*{box-sizing:border-box}
+body{font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;max-width:880px;margin:2rem auto;padding:0 1rem;background:var(--bg);color:var(--text)}
+.small{color:var(--muted)}
+
